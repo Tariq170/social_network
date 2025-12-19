@@ -1,4 +1,4 @@
-class Artist:
+'''class Artist:
     # We initialise with all of our attributes
     # Each column in the table should have an attribute here
     def __init__(self, id, name, genre):
@@ -14,3 +14,4 @@ class Artist:
     # This method makes it look nicer when we print an Artist
     def __repr__(self):
         return f"Artist({self.id}, {self.name}, {self.genre})"
+'''

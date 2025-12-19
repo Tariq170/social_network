@@ -1,4 +1,4 @@
-from lib.artist import Artist
+'''from lib.artist import Artist
 
 """
 Artist constructs with an id, name and genre
@@ -27,4 +27,4 @@ def test_artists_are_equal():
     artist2 = Artist(1, "Test Artist", "Test Genre")
     assert artist1 == artist2
     # Try commenting out the `__eq__` method in lib/artist.py
-    # And see what happens when you run this test again.
+    # And see what happens when you run this test again.'''

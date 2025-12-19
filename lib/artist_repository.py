@@ -1,4 +1,4 @@
-from lib.artist import Artist
+'''from lib.artist import Artist
 
 class ArtistRepository:
 
@@ -34,3 +34,4 @@ class ArtistRepository:
         self._connection.execute(
             'DELETE FROM artists WHERE id = %s', [artist_id])
         return None
+'''
